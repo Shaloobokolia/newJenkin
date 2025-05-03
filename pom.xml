@@ -30,7 +30,6 @@
 
                 <configuration> <!-- Here we mention which test cases do we need to run -->
                     <forkCount>1</forkCount>
-                
                     <suiteXmlFiles>
                         <suiteXmlFile>testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
