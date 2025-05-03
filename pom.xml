@@ -29,7 +29,7 @@
                 <version>3.5.3</version>
 
                 <configuration> <!-- Here we mention which test cases do we need to run -->
-                    <forkCount>1</forkCount>
+                    <forkCount>0</forkCount>
                     <suiteXmlFiles>
                         <suiteXmlFile>testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
