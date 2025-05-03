@@ -30,7 +30,7 @@
 
                 <configuration> <!-- Here we mention which test cases do we need to run -->
                     <forkCount>0</forkCount>
-                    <reuseForks>false</reuseForks> 
+                
                     <suiteXmlFiles>
                         <suiteXmlFile>testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
